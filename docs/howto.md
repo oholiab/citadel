@@ -1,8 +1,6 @@
-
 # How to make rootfs writable
-
 1. Open Citadel terminal
-2. Su to root
+2. `su` to root
   ```
   $ su
   ```
