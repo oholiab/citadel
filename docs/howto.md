@@ -22,10 +22,7 @@
   Verifying - Password: 
   sGYyWXqDuh64g
   ```
-3. Su to root
-  ```
-  $ su
-  ```
+3. `su` to root
 4. Make rootfs writable
   ```
   # mount -o remount,rw /
